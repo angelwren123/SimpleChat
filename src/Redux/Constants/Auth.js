@@ -1,0 +1,1 @@
+export const SAVE_INFO_USER = 'SAVE_INFO_USER'
