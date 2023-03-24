@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.awesomeproject",
+  "applicationId": "com.simplechat.learn",
   "variantName": "release",
   "elements": [
     {

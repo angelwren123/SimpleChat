@@ -4,7 +4,7 @@ const sendSingleDeviceNotification = data => {
   myHeaders.append('Content-Type', 'application/json');
   myHeaders.append(
     'Authorization',
-    'key=AAAAgejrq98:APA91bG8iMG_xXdfecSWk_R58eMHHnVYrYgQM3nDXw6CJ2_B0nI-iUv1D7fNxYOsvOEYkCmRZs8gXYplSDPNMrGP8H_p_FTwQsmvUYQ5pNkqUmZrUpeiaG9WIXvyGFQ4fVPs7c9cqm-r',
+    'key=AAAACX7PrW4:APA91bFEQcVB4Znw4unjgJEOrSa2wMf8wnon2em7p3vrkJ8sWumxTHo-zi5mCSR7yIohmHJdoX5Wy6AC-eVfXfSZe-3YpY76t2KcjzYa8azMARxy0by4TM-vWUCnS_hOtOQDxo4wtrEg',
   );
 
   var raw = JSON.stringify({
@@ -39,7 +39,7 @@ const sendMultiDeviceNotification = data => {
   myHeaders.append('Content-Type', 'application/json');
   myHeaders.append(
     'Authorization',
-    'key=AAAAgejrq98:APA91bG8iMG_xXdfecSWk_R58eMHHnVYrYgQM3nDXw6CJ2_B0nI-iUv1D7fNxYOsvOEYkCmRZs8gXYplSDPNMrGP8H_p_FTwQsmvUYQ5pNkqUmZrUpeiaG9WIXvyGFQ4fVPs7c9cqm-r',
+    'key=AAAACX7PrW4:APA91bFEQcVB4Znw4unjgJEOrSa2wMf8wnon2em7p3vrkJ8sWumxTHo-zi5mCSR7yIohmHJdoX5Wy6AC-eVfXfSZe-3YpY76t2KcjzYa8azMARxy0by4TM-vWUCnS_hOtOQDxo4wtrEg',
   );
 
   var raw = JSON.stringify({
