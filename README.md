@@ -18,4 +18,4 @@
  
  +Tìm kiếm kết bạn. 
  
--Link apkpure sẽ sớm được cập nhật.
+- Link apkpure sẽ sớm được cập nhật.
